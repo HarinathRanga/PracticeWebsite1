@@ -17,19 +17,19 @@ var data = {
     },
     prakash : {
         name : "Prakash Raju",
-        leetcode : "#",
-        codechef : "#",
-        geekforgeeks : "#",
-        linkedin : "#",
-        github : "#"
+        leetcode : "https://leetcode.com/prakashraju_05/",
+        codechef : "https://www.codechef.com/users/prakashraju",
+        geekforgeeks : "https://auth.geeksforgeeks.org/user/prakashraju_05",
+        linkedin : "https://www.linkedin.com/in/prakashraju05/",
+        github : "https://github.com/PrakashRaju05"
     },
     mahesh : {
         name : "Mahesh Yadav",
-        leetcode : "#",
-        codechef : "#",
-        geekforgeeks : "#",
-        linkedin : "#",
-        github : "#"
+        leetcode : "https://leetcode.com/mahesh_777/",
+        codechef : "https://www.codechef.com/users/mahesh_30",
+        geekforgeeks : "https://auth.geeksforgeeks.org/user/uduthamaheshyadav",
+        linkedin : "https://www.linkedin.com/in/uduthamaheshyadav/",
+        github : "https://github.com/Uduthamahesh77"
     }
 };
 
